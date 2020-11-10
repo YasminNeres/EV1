@@ -1,0 +1,17 @@
+cd ev1
+ mkdir alfa
+echo " EXAMEN ENTORNOS" > prueba.txt
+type prueba.txt
+ mkdir beta
+ copy .º
+ copy .\alfa\prueba.txt .\beta\prueba.txt
+ echo "EXAMEN ENTORNOS" > prueba.txt
+ type prueba.txt
+cd alfa
+echo "EXAMEN ENTORNOS" > Prueba.txt
+cd ..
+cd beta
+ copy .\alfa\Prueba.txt .\beta\prueba.txt
+echo "EXAMEN ENTORNOS" > Prueba.txt
+doskey/ history
+doskey /history
